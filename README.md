@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dipta Sikder</h1>
-# 💫 About Me:
+<h3 align="left"># 💫 About Me:</h3>
 
 🔭 I’m currently working on MERN stack projects<br>🚀 Always ready to collaborate for Dev Experiments<br>🌱 I’m currently learning: Typescript, Mongoose, Testing, GraphQL, SQL, Next.js, AWS, Docker<br>💬 Ask me about MERN and Next JS<br>✉️ How to reach me: shoot an email at "diptasikder775@gmail.com"<br>⚡ Fun fact: I love to attend Meetups for learning & Conferences for Networking
 <h3 align="center">A passionate frontend developer from Dhaka, Bangladesh</h3>
