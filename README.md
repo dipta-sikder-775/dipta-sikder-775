@@ -32,4 +32,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipta-sikder-775&show_icons=true&locale=en" alt="Dipta Sikder" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipta-sikder-775&" alt="Dipta Sikder" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipta-sikder-775" alt="Dipta Sikder" /></p>
