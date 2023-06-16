@@ -2,6 +2,7 @@
 <h3 align="left">💫 About Me:</h3>
 👋 Hello, I'm Dipta Sikder, an Electrical and Electronic Engineer with a passion for programming and a focus on web development. I specialize in front-end development and have the expertise and job experience in React JS.
 
+
 💻 As a React JS Developer, I have a strong understanding of JavaScript and its frameworks. I enjoy building user-friendly and interactive web applications that deliver a seamless user experience. I strive to write clean, efficient, and maintainable code while following industry best practices.
 
 🌟 With a solid foundation in electrical and electronic engineering, I bring a unique perspective to my programming work. My engineering background has honed my problem-solving skills and attention to detail, allowing me to approach development challenges with a systematic and analytical mindset.
