@@ -6,7 +6,7 @@
 <br/><br/>
 🌟 With a solid foundation in electrical and electronic engineering, I bring a unique perspective to my programming work. My engineering background has honed my problem-solving skills and attention to detail, allowing me to approach development challenges with a systematic and analytical mindset.
 <br/><br/>
-🚀 In addition to my technical skills, I am a dedicated and enthusiastic learner, always staying up-to-date with the latest trends and technologies in the web development fields. I thrive in collaborative environments and enjoy working in teams to bring innovative ideas to life.
+🚀 In addition to my technical skills, I am a dedicated and enthusiastic learner, always staying up-to-date with the latest trends and technologies in the web development field. I thrive in collaborative environments and enjoy working in teams to bring innovative ideas to life.
 <br/><br/>
 📫 If you have any questions, or collaboration opportunities, or just want to connect, feel free to reach out to me. I'm always open to new projects and exciting challenges!
 <h3 align="center">A passionate frontend developer from Dhaka, Bangladesh</h3>
